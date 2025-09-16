@@ -19,5 +19,6 @@ authors:
   - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Ge Yu
 links:
+  Paper: https://www.sciencedirect.com/science/article/abs/pii/S0950705124014205
   Code: https://github.com/iDC-NEU/Neutronsketch-KBS
 ---
