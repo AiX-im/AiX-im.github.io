@@ -2,7 +2,7 @@
 title:          "NeutronAscend: Optimizing GNN Training with Ascend AI Processors"
 date:           2025-08-26 00:01:00 +0800
 selected:       true
-pub:            "Transactions on Architecture and Code Optimization (TACO)"
+pub:            "ACM Transactions on Architecture and Code Optimization (TACO)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
