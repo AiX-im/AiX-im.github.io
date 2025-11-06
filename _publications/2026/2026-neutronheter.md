@@ -1,7 +1,7 @@
 ---
 title:          "NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters"
 date:           2026-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Proceedings of the International Conference on Management of Data (SIGMOD)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -25,7 +25,7 @@ authors:
   - Yu Gu
   - Ge Yu
 links:
----
+  Paper: https://dl.acm.org/doi/10.1145/3749175
 
 
 

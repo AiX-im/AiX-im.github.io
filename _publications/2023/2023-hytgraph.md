@@ -1,7 +1,7 @@
 ---
 title:          "HyTGraph: GPU-Accelerated Graph Processing with Hybrid Transfer Management"
 date:           2023-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "International Conference on Data Engineering (ICDE)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
